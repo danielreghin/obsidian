@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "d465a944268810db",
+    "type": "split",
+    "children": [
+      {
+        "id": "2abc92310256d6cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa2848ad5a3218b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas Permanentes/Espiristismo/Palestras/A Reencarnação fortalece os laços de família.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Reencarnação fortalece os laços de família"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3e816b17181efc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecffde727f2a3306",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7198d262b0cb1c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "9dd08729e6006959",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "TED",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "34d9b2430ee7bc86",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 430.5
+  },
+  "right": {
+    "id": "579e100071f15765",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b49f10088ce67d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7945ad17248aafce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "875e3fed5f64d211",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "52348d7f929d2f18",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b3fea4db1163c5cc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "6a8abc183927b437",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notas Permanentes/Espiristismo/Palestras/A Reencarnação fortalece os laços de família.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de A Reencarnação fortalece os laços de família"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "zotero-sync-client:Sync with Zotero": false,
+      "tags-overview:Tags overview": false,
+      "dashboard-navigator:Open dashboard navigator": false
+    }
+  },
+  "active": "aa2848ad5a3218b2",
+  "lastOpenFiles": [
+    "Notas Literárias/Linguas/OpenEnglish/Nivel 5_B - Units.md",
+    "Notas Literárias/Autoajuda/Inspiração/TED/A Arte de Pedir.md",
+    "Notas Literárias/Linguas/OpenEnglish/Nivel 5 - Unidade 1 - Units.md",
+    "Notas Literárias/Linguas/OpenEnglish/Nível 5 - Unidade 1.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Estratégia do oceano azul.md",
+    "Notas Literárias/Empreendedorismo/Matriz BCG.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Relação prospecção e vendas.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Canais de Vendas.md",
+    "Notas Literárias/Empreendedorismo/Matriz Preço Qualidade (Quadrante Mágico Gartner).md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Ciclo de planejamento e controle comercial.md",
+    "Notas Literárias/Empreendedorismo/Análise SWOT.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Funil de Vendas.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Ciclo de Vendas.md",
+    "Notas Literárias/Empreendedorismo/Canvas Business Model.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Ciclo de vida de um produto.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Concentração de vendas por cliente.md",
+    "Notas Literárias/Empreendedorismo/Matriz produto x mercado.md",
+    "Notas Literárias/Empreendedorismo/Matriz GE.md",
+    "Externos/Anexos/Pasted image 20250320111338.png",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Vantagens Competitivas.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Impactos do macroambiente e segmento (forças de Porter).md",
+    "Externos/Anexos/Pasted image 20250320111408.png",
+    "Externos/Anexos/Pasted image 20250320112622.png",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Termos usados num Planejamento Estratégico.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Planejamento Estratégico.md",
+    "Externos/Anexos/Pasted image 20250320111516.png",
+    "Externos/Anexos/Pasted image 20250320111307.png",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Treinamento FIA - Material Apoio - 3 -  Estratégia Empresarial.pdf",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Treinamento FIA - Material Apoio - 4 -  Estratégia Empresarial.pdf",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/_FIA - Estratégia Empresarial.md",
+    "Externos/Anexos/Pasted image 20250320101002.png",
+    "Externos/Anexos/Pasted image 20250320100907.png",
+    "Externos/Anexos/Pasted image 20250320101103.png",
+    "Externos/Anexos/Pasted image 20250320101525.png",
+    "Externos/Anexos/Pasted image 20250320100926.png",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Treinamento FIA - Material Apoio - 2 -  Estratégia Empresarial.pdf",
+    "Notas Permanentes/Espiristismo/Palestras/A Reencarnação fortalece os laços de família.md",
+    "Notas Permanentes/Espiristismo/Palestras/Ninguém poderá ver o reino de Deus se não nascer de novo.md",
+    "Notas Literárias/Espiritismo/Pentateuco Espírita/LM - Capítulo III - Do Método.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Treinamento FIA - Material Apoio - 1 -  Estratégia Empresarial.pdf",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Sem título"
+  ]
+}

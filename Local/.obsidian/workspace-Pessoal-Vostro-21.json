@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "d465a944268810db",
+    "type": "split",
+    "children": [
+      {
+        "id": "849be90803e89d71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adec10d1a4ec7144",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas Literárias/Tecnologia/Sistema Operacional/Terminal MacOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Terminal MacOS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3e816b17181efc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecffde727f2a3306",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7198d262b0cb1c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "9dd08729e6006959",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "34d9b2430ee7bc86",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5
+  },
+  "right": {
+    "id": "579e100071f15765",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b49f10088ce67d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7945ad17248aafce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "875e3fed5f64d211",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "52348d7f929d2f18",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b3fea4db1163c5cc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "6a8abc183927b437",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notas Literárias/Tecnologia/Sistema Operacional/Terminal MacOS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Terminal MacOS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zotero-sync-client:Sync with Zotero": false,
+      "tags-overview:Tags overview": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "adec10d1a4ec7144",
+  "lastOpenFiles": [
+    "Notas Literárias/Linguas/OpenEnglish/Nível 5_E - Common Expressions.md",
+    "Notas Literárias/Tecnologia/Sistema Operacional/Terminal MacOS.md",
+    "Notas Literárias/Tecnologia/Sistema Operacional/Sem título",
+    "Notas Literárias/Tecnologia/Sistema Operacional",
+    "Notas Permanentes/Educação e Aprendizagem/Aulas/Matemática Financeira e introdução a produtos bancários/1 - Plano de Aula.md",
+    "Notas Permanentes/Finanças/Análise Técnica.md",
+    "Notas Literárias/Linguas/OpenEnglish/Nível 5_D - Vocabulary and Phrases.md",
+    "Notas Literárias/Linguas/OpenEnglish/Nível 5_F - Verb Tenses.md",
+    "Notas Literárias/Linguas/OpenEnglish/Nivel 5_B - Units.md",
+    "Notas Literárias/Linguas/OpenEnglish/Nível 5_C - Group Class.md",
+    "Externos/Anexos/image-5.png",
+    "Externos/Anexos/image-4.png",
+    "Externos/Anexos/image-3.png",
+    "Notas Permanentes/Educação e Aprendizagem/2 - Treinamentos.md",
+    "Notas Permanentes/Educação e Aprendizagem/1 - Livros.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/_FIA - Estratégia Empresarial.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Termos usados num Planejamento Estratégico.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Heurística e vieses de comportamento.md",
+    "Notas Literárias/Empreendedorismo/Matriz produto x mercado.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Vantagens Competitivas.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Estratégia.md",
+    "Notas Literárias/Empreendedorismo/Modelos de Negócios.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Ciclo de vida de um produto.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Ciclo de planejamento e controle comercial.md",
+    "Notas Permanentes/Empreendedorismo/Estratégia Empresarial.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Cinco forças de Potter.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Impactos do macroambiente e segmento.md",
+    "Externos/Anexos/Pasted image 20250307092510.png",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Estratégia do oceano azul.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Concentração de vendas por cliente.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Canais de Vendas.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Relação prospecção e vendas.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Treinamento FIA - Material Apoio - 1 -  Aspectos Racionais e Comportamentais.pdf",
+    "Externos/Anexos/image-2.png",
+    "Externos/Anexos/image-1.png",
+    "Externos/Anexos/image.png",
+    "Externos/Anexos/Pasted image 20250326153411.png",
+    "Externos/Anexos/Pasted image 20250326145525.png",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Treinamento FIA - Material Apoio - 4 -  Na prática - Parte 2.pdf",
+    "Externos/Anexos/Pasted image 20250326144736.png",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Treinamento FIA - Material Apoio - 3 -  Na prática - Parte 1.pdf",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Treinamento FIA - Material Apoio - 2 -  Visão Sistêmica.pdf",
+    "Notas Permanentes/Educação e Aprendizagem/Aulas/Matemática Financeira e introdução a produtos bancários",
+    "Notas Permanentes/Educação e Aprendizagem/Aulas",
+    "Notas Permanentes/Educação e Aprendizagem/4 - Aulas a fazer",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Sem título"
+  ]
+}

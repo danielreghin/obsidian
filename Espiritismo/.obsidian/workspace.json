@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "a80719a1c4b216ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "01281d04526ea08c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a38145233829a14",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8179b3c0954caac",
+    "type": "split",
+    "children": [
+      {
+        "id": "cba2b4d932ea0770",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "082c442458142f72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e43448094ade814a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7bce7aec5eca6a9b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "29e3d9bde990d15e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3e1e8859c26e34b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5398a7c4d7201ab7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a4b3140dea33641",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "848145c9a2d98166",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1c99028eceb0c133",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "zotero-sync-client:Sync with Zotero": false
+    }
+  },
+  "active": "082c442458142f72",
+  "lastOpenFiles": [
+    "Notas Permanentes/Aula",
+    "Sem título",
+    "Template",
+    "Notas Permanentes",
+    "Sem título.md",
+    "Notas Efêmeras",
+    "Notas Externas/Zotero/Notas Literárias/Educação e Aprendizagem",
+    "Notas Externas/Zotero/Notas Literárias/Espiritismo/Obras",
+    "Notas Externas/Zotero/Notas Literárias/Autoajuda",
+    "Notas Externas/Zotero/Notas Literárias/Comunicação",
+    "Notas Externas/Zotero/Notas Literárias/Espiritismo/Pentateuco Espírita/3 - Evengelho Segundo o Espiritismo/{Cp] XII - Não saiba a vossa mão esquerda o que dê a vossa mão direita.md",
+    "Notas Externas/Zotero/Notas Literárias/Espiritismo/Pentateuco Espírita/3 - Evengelho Segundo o Espiritismo",
+    "Notas Externas/Zotero/Notas Literárias/Espiritismo/Pentateuco Espírita/4 - Gênese/{Cp] X - Gênese orgânica.md",
+    "Notas Externas/Zotero/Notas Literárias/Espiritismo/Pentateuco Espírita/4 - Gênese/[Cp] VI - Uranografia geral.md",
+    "Notas Externas/Zotero/Notas Literárias/Espiritismo/Pentateuco Espírita/4 - Gênese",
+    "Notas Externas/Zotero/Notas Literárias/Espiritismo/Pentateuco Espírita/1 - Livro dos Espíritos/[Cp] IV - Princípio vital.md",
+    "Notas Externas/Zotero/Crescimento Pessoal/Técnicas/[Rl] Aplicativo Cingulo.md",
+    "Notas Externas/Zotero/Notícias/Financeiras/[Nt] Morning Call.md",
+    "Notas Externas/Zotero/Notícias/Financeiras/[Nt] Morning Call - Água e Saneamento.md",
+    "Notas Externas/Zotero/Notícias/Financeiras/[Nt] Morning Call - Bancos.md",
+    "Notas Externas/Zotero/Notas Literárias/Educação e Aprendizagem/[Lv] Neurociência aplicada a técnicas de estudo.md",
+    "Notas Externas/Zotero/Notas Literárias/Espiritismo/Obras/[Lv] No Mundo Maior.md",
+    "Notas Externas/Zotero/Notas Literárias/Autoajuda/[Lv] O poder do Agora - Um guia para a iluminação espiritual.md",
+    "Notas Externas/Zotero/Notas Literárias/Comunicação/[Lv] TED falar, convencer, emocionar.md",
+    "Notas Externas/Zotero/Notas Literárias/Espiritismo/Pentateuco Espírita/1 - Livro dos Espíritos/[Cp] II - Dos elementos gerais do Universo.md",
+    "Notas Externas/Zotero/Notas Literárias/Ficção/[Lv] Ramsés - O Filho da Luz.md",
+    "References/de Mello.md",
+    "References/Matsura.md",
+    "Notas Externas/Zotero/Notas Literárias/Tecnologia/Produto Digital/[Lv] Inspirado.md",
+    "Notas Externas/Zotero/Notas Literárias/Tecnologia/Governança/{Lv] IT Governance.md",
+    "Notas Externas/Zotero/Notas Literárias/Tecnologia/Linguagem/[Tr] Linguagem YAML.md",
+    "Notas Externas/Zotero/Notas Literárias/Tecnologia/Inteligência Artifical/[Tr] Google - Learning Path - Generative AI Learning Path.md",
+    "Notas Externas/Zotero/Livros, Artigos e Aulas/Tecnologia/Gartner/{Ar] 6 Essential Techniques for Reducing Risk and Uncertainty in Architecture Decisions.md",
+    "Notas Externas/Zotero/Notas Literárias/Tecnologia/Governança/[Ar] Why ESG ratings vary so widely (and what you can do about it).md",
+    "Notas Externas/Zotero/Crescimento Pessoal/Técnicas/[Rl] Meditação.md",
+    "Notas Externas/Zotero/Crescimento Pessoal/Técnicas/[Rl] Linha do Tempo - Desafios e Superações.md"
+  ]
+}

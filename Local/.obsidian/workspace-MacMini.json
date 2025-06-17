@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "718762679e40ed78",
+    "type": "split",
+    "children": [
+      {
+        "id": "790d3c66a662bb20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5d10fb4f0c5e854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas Literárias/Tecnologia/DevSecOps/Observabilidade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Observabilidade"
+            }
+          },
+          {
+            "id": "3ca73ccd227fdae2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas Literárias/Tecnologia/DevSecOps/Ferramentas de Observabilidade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ferramentas de Observabilidade"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb2c98123150aeec",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0ba3c48a02c7932",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a4bb754d1c636e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "079350513e374481",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0eed116bff58c48c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "b70cc811805704e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "44ae5ce1288c60f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "490770a639123cb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfbd72bccd675d8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notas Literárias/Gestão e Liderança/Soft Skill.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Soft Skill"
+            }
+          },
+          {
+            "id": "cf9b50138a891a0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notas Literárias/Gestão e Liderança/Soft Skill.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Soft Skill"
+            }
+          },
+          {
+            "id": "34d01552459cd89e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0e50070379325a64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notas Literárias/Tecnologia/DevSecOps/Ferramentas de Observabilidade.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Ferramentas de Observabilidade"
+            }
+          },
+          {
+            "id": "ee909c9273f1f91d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e4d5a586c879988e",
+            "type": "leaf",
+            "state": {
+              "type": "tags-overview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 341.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "zotero-sync-client:Sync with Zotero": false,
+      "tags-overview:Tags overview": false,
+      "dashboard-navigator:Open dashboard navigator": false
+    }
+  },
+  "active": "3ca73ccd227fdae2",
+  "lastOpenFiles": [
+    "Externos/Anexos/Pasted image 20241127193702.png",
+    "Notas Literárias/Tecnologia/DevSecOps/Observabilidade.md",
+    "Externos/Anexos/Pasted image 20241127192303.png",
+    "Externos/Anexos/Pasted image 20241127191251.png",
+    "Externos/Anexos/Pasted image 20241127190949.png",
+    "Externos/Anexos/Pasted image 20241127185006.png",
+    "Externos/Anexos/Pasted image 20241127184118.png",
+    "Externos/Anexos/Pasted image 20241127182937.png",
+    "Notas Literárias/Tecnologia/DevSecOps/Ferramentas de Observabilidade.md",
+    "Externos/Anexos/Pasted image 20241127182256.png",
+    "Notas Permanentes/Tecnologia/Engenharia de Software/Engenharia de Software.md",
+    "Notas Permanentes/Tecnologia/DevSecOps/DevOps.md",
+    "Notas Literárias/Tecnologia/DevSecOps/Deploy Patterns.md",
+    "Notas Permanentes/Tecnologia/BV/Termos para estudo.md",
+    "Notas Permanentes/Tecnologia/BV/Stack tecnológico BV.md",
+    "Notas Literárias/Tecnologia/DevSecOps/Elastic Stack.md",
+    "Externos/Anexos/Pasted image 20241127134746.png",
+    "Notas Permanentes/Tecnologia/BV",
+    "Notas Permanentes/Tecnologia/Sem título.md",
+    "Notas Permanentes/Tecnologia/Arquitetura Corporativa/Arquitetura de Software.md",
+    "Notas Permanentes/Tecnologia/Linguagem/Linguagens de Programação.md",
+    "Notas Literárias/Tecnologia/Microserviços/gRPC.md",
+    "Notas Permanentes/Tecnologia/DevSecOps/DevSecOps.md",
+    "Notas Literárias/Tecnologia/DevSecOps/SRE - Site Reliability Engineer.md",
+    "Notas Permanentes/Tecnologia/Microserviços/Implementação de Microserviços.md",
+    "Notas Permanentes/Tecnologia/Testes de Software/Testes de software.md",
+    "Notas Permanentes/Tecnologia/Metodologias de Desenvolvimento/Metodologias de Desenvolvimento.md",
+    "Notas Literárias/Tecnologia/Engenharia de Software/Processamento de Dados.md",
+    "Notas Literárias/Tecnologia/Microserviços/Tipos de microserviços.md",
+    "Notas Literárias/Tecnologia/Arquitetura Corporativa/Arquitetura de Microserviços.md",
+    "Notas Literárias/Tecnologia/Arquitetura Corporativa/Arquitetura de Cebola.md",
+    "Notas Literárias/Tecnologia/Engenharia de Software/Processamento Batch.md",
+    "Notas Permanentes/Tecnologia/Arquitetura Corporativa/Técnicas de desenho arquiteturais.md",
+    "Notas Permanentes/Tecnologia/Arquitetura Corporativa/Arquitetura de Processamento.md",
+    "Notas Permanentes/Tecnologia/Arquitetura Corporativa/Padrões arquiteturais.md",
+    "Notas Literárias/Tecnologia/Engenharia de Software",
+    "Externos/Anexos/Pasted image 20241125150024.png",
+    "Externos/Anexos/Pasted image 20241125144827.png",
+    "Notas Permanentes/Espiristismo/Treinamentos",
+    "Notas Permanentes/Tecnologia/Ambiente Corporativo",
+    "Notas Literárias/Gestão e Liderança/Treinamentos/Gestão de conflitos no meio corporativo/Alura - Gestão de conflito no meio corporativo.pdf",
+    "Notas Literárias/Educação e Aprendizagem/Treinamentos/Alura - Aprender a aprender/Alura - Aprender a aprender.pdf",
+    "Notas Permanentes/Música",
+    "Notas Literárias/Música",
+    "Notas Literárias/Tecnologia/Blockchain e Ativos Digitais",
+    "Externos/Anexos/PlanodeTeste(QA).docx",
+    "Sem título 1.canvas",
+    "Sem título.canvas"
+  ]
+}

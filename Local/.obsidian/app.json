@@ -1,0 +1,18 @@
+{
+  "attachmentFolderPath": "/Externos/Anexos",
+  "newFileLocation": "root",
+  "alwaysUpdateLinks": true,
+  "trashOption": "system",
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheckDictionary": [
+    "oodby\n",
+    "visualmenente",
+    "Ângelis"
+  ]
+}

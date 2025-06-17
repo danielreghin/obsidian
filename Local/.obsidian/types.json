@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "criado": "date",
+    "revisões": "number",
+    "data_publicação": "number",
+    "ano_publicação": "number",
+    "n_páginas": "number",
+    "qtd_páginas": "number"
+  }
+}

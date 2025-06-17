@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "0f04b05d448271d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0950c648f5b26120",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7419ae1736f72335",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Treinamento FIA - Estratégia Empresarial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Treinamento FIA - Estratégia Empresarial"
+            }
+          },
+          {
+            "id": "f5cda5123e66042d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Treinamento FIA - Material Apoio - 1 -  Estratégia Empresarial.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Treinamento FIA - Material Apoio - 1 -  Estratégia Empresarial"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8f9aea481b0194f",
+    "type": "split",
+    "children": [
+      {
+        "id": "45cf7982a7788494",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "770acce23b93e67f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "d65615fa0624c360",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "4a00dd76619e5be9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22906899d12f5554",
+    "type": "split",
+    "children": [
+      {
+        "id": "03580b361ed1533b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5db32cceffa4e3a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a584775ab90a932b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "4939f7f6a8bec6c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a1675c4f06038379",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Treinamento FIA - Material Apoio - 1 -  Estratégia Empresarial.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Treinamento FIA - Material Apoio - 1 -  Estratégia Empresarial"
+            }
+          },
+          {
+            "id": "ae174e15d6d6cdb1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zotero-sync-client:Sync with Zotero": false,
+      "tags-overview:Tags overview": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "f5cda5123e66042d",
+  "lastOpenFiles": [
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Estratégia.md",
+    "Notas Permanentes/Notas Permanentes.md",
+    "Notas Permanentes/Empreendedorismo/Estratégia Empresarial.md",
+    "Notas Permanentes/O que isso me ensina.md",
+    "Notas Permanentes/Educação e Aprendizagem/2 - Treinamentos.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Sem título.md",
+    "Notas Permanentes/Educação e Aprendizagem/1 - Livros.md",
+    "Notas Permanentes/Espiristismo/Treinamentos/Educador Espírita.md",
+    "Notas Permanentes/Educação e Aprendizagem/3 - Vídeos.md",
+    "Sem título.md",
+    "Notas Permanentes/Educação e Aprendizagem/Material educacional - Livros, treinamentos e vídeos.md",
+    "Notas Literárias/Autoajuda/Meditação/Técnicas de meditação.md",
+    "Notas Permanentes/Segundo Cérebro - Notas Permanentes.md",
+    "Notas Literárias/Autoajuda/Inspiração/TED/Dan Ariely pergunta - Temos controle sobre nossas decisões.md",
+    "Notas Literárias/Autoajuda/Inspiração/TED/Daniel Kahneman - O enigma da experiência x memória.md",
+    "Notas Literárias/Autoajuda/Inspiração/TED/Sem título.md",
+    "Externos/Anexos/Pasted image 20250312110721.png",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Treinamento FIA - Estratégia Empresarial-MacMini-4.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Treinamento FIA - Estratégia Empresarial-MacMini-3.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Treinamento FIA - Estratégia Empresarial-MacMini-2.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Treinamento FIA - Estratégia Empresarial-MacMini.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Treinamento FIA - Estratégia Empresarial.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Treinamento FIA - Material Apoio - 1 -  Estratégia Empresarial.pdf",
+    "Notas Permanentes/Resumão.md",
+    "Notas Literárias/Linguas/OpenEnglish/Nível 5 - Unidade 1.md",
+    "Notas Literárias/Linguas/OpenEnglish",
+    "Notas Literárias/Linguas",
+    "Pasted image 20250225163834.png",
+    "Notas Permanentes/Empreendedorismo/BCOPE/BCOpe.md",
+    "Notas Permanentes/Empreendedorismo/BCOPE/Estrutura Backend para o BCOpE.md",
+    "Notas Permanentes/Empreendedorismo/BCOPE/Backlog de atividades - BCOPE.md"
+  ]
+}

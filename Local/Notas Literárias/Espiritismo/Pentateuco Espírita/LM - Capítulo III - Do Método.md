@@ -1,0 +1,29 @@
+---
+tags:
+  - espiritismo/pentateuco
+revisões: 0
+criado: 2025-03-16
+título_alternativo:
+---
+## Síntese 
+
+O Espiritismo é toda uma ciência e filosofia, para conhecê-lo com propriedade é necessário que se faça um estudo sobre o tema. É útil não se limitar a um único autor. Importante ler argumentos a favor e contra, além de analisar críticas e elogios, para que se possa formar uma opinião robusta sobre o tema. Uma vez com conhecimento suficiente, é possível repassar o conhecimento a quem se dispor a aprender, seja em um processo metodológico, seja em uma simples conversa.  
+
+No processo de ensino, pensaríamos que bastaria apresentar fatos lógicos ou racionais, bem como iniciar a explicação através do conceito de espírito. Na verdade, o ideal é começar por um ponto onde o interlocutor tenha referência e conhecimento. O materialista, por exemplo, é o da existência da matéria e de suas relações. Dessa forma, como passo seguinte seria recomendado refletir sobre os efeitos não explicados pela matéria, para somente depois, iniciá-lo sobre a reflexão do conceito de alma como algo que existe após a morte física. O processo de ensino, portanto, começa em identificar o interlocutor relativo às suas crenças, para que se possa entender se haverá terreno fértil, e o quanto será difícil em plantar os conhecimentos adquiridos. Classificam-se, portanto, os interlocutores que se podem encontrar no processo de convencimento e ensino.  
+
+Temos os materialistas por sistema, para eles, o corpo é uma máquina que cessa com a morte. Existem os materialistas extremados que negam qualquer princípio inteligente fora da matéria, são orgulhosos de sua posição e por mais argumentos que se coloque não querem voltar numa decisão. Há ainda os materialistas por indiferença, algo os incomoda em não conhecer, mas não lhes foi apresentado argumentos que o façam mudar de ideia. Para esse grupo, recomenda-se iniciar pelo argumento de que as leis da Fisiologia nem sempre explicam tudo.  
+
+Existe a categoria dos incrédulos, começando com os incrédulos por má vontade, para eles, crer no Espiritismo seria um problema, pois perturbaria o aproveitar das coisas materiais ao condenar as ambições, egoísmos e vaidades. Temos os incrédulos por interesse, em que é conveniente não acreditar, pois atrapalharia os seus interesses pessoais. Existem ainda: os incrédulos por pusilanimidade, que só acreditarão quando muitos acreditarem; os incrédulos por escrúpulos religiosos, que um dia entenderão que o espiritismo repousa em bases fundamentais da religião; incrédulos por decepção, enganados de alguma forma, como, terem sido apresentados ao tema como método de adivinhação e de aproximação amorosa. Para essa categoria é necessário deixar que o tempo se encarregue de convencê-los.   
+
+Existe a categoria dos incertos, que têm uma vaga noção dos conceitos espíritas e ao conhecer com mais detalhes recebem o clarão o acolhem com alegria. É terreno fértil de aprendizado.  
+
+Por fim, há a categoria dos crentes. Nela temos os espíritas sem o saberem, eles possuem o conhecimento inato dos princípios espíritas e os postulam em suas atividades, como escrita, poesia e filosofia. Ainda temos as seguintes categorias: espíritas experimentadores que se comprazem com as manifestações; espíritas imperfeitos que conhecem a parte filosófica e moral, mas em nada alteram os seus hábitos; espiritas cristãos que praticam a moral espírita e aceitam todas as consequências; espíritas exaltados que direcionam a uma confiança cega para aceitar sem verificação e sem estudo, são prejudiciais, pois dão armas aos incrédulos.   
+
+Convencer essa diversidade de público, dependerá do conhecimento das causas da incredulidade. Os meios de convencimento variam bastante, alguns serão convencidos pelos efeitos, outros pela observação e outros pelo raciocínio. Não se deve procurar convencer àquele obstinado por insistência, pois inflaria o seu ego, deve-se deixar a Providência o fazê-lo. Deve-se dirigir aquele de boa vontade através palavras simples e de ações de consolo. 
+
+Relativo ao processo de ensino estruturado do Espiritismo, poderia imaginar que, assim como o processo de ensino da ciência, deveria se iniciar pela demonstração dos efeitos físicos. Existem dois argumentos que refutam essa ideia. Primeiro, trata-se de uma ciência que se comunica com seres espirituais que possuem sua vontade e necessidades, além disso, há a necessidade de médiuns que também têm inúmeros matizes de capacidade.  Não se teria o ambiente controlado para seguir com esse método. Segundo, começar por esse modo faria que se repetisse todo o processo de codificação do espiritismo, ato penoso e demorado. Deve-se começar pelo ensino da teoria de forma organizada ao passo que se compreenda toda a grandeza e o objetivo da ciência espírita. Ao fim, se compreenderão os fatos e efeitos mediante antecipado conhecimento teórico. 
+  
+Por fim, como dito na introdução, ler tudo que se encontre escrito, além de considerar as posições favoráveis e contrárias sobre o tema, fará com que um estudioso do Espiritismo fortaleça as suas crenças para assim divulgue-o com segurança. 
+## Comentários particulares:
+
+Compreendemos que o processo de persuasão é bastante difícil. Existem inúmeras classes de interlocutores, que nós como educadores, encontraremos. Kardec nos trouxe de forma lógica e organizada essas categorias para podermos nos preparar para identificá-las e direcionar o ensino do Espiritismo da melhor forma. Nos chama atenção a categoria dos Espíritas Cristãos que é a categoria que nós como educadores devemos nos inserir para darmos o exemplo real do que é ser um Espírita.**

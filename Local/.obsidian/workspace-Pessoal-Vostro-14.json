@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "d465a944268810db",
+    "type": "split",
+    "children": [
+      {
+        "id": "23831e1774a7b4b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56688db6aa401d77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas Literárias/Gestão e Liderança/Treinamentos/Líderes de Equipe/_Wisnet - Líderes de Equipe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Wisnet - Líderes de Equipe"
+            }
+          },
+          {
+            "id": "5f35611d9fd6a82b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas Literárias/Governança/Livros/IT Governance/IT Governance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IT Governance"
+            }
+          },
+          {
+            "id": "fe5e8c75d9d3a2d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas Literárias/Tecnologia/Inteligência Artificial/Treinamentos/Responsible AI/Responsible AI - Applying AI Principles with Google Cloud.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Responsible AI - Applying AI Principles with Google Cloud"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3e816b17181efc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecffde727f2a3306",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7198d262b0cb1c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "9dd08729e6006959",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "34d9b2430ee7bc86",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 430.5
+  },
+  "right": {
+    "id": "579e100071f15765",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b49f10088ce67d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7945ad17248aafce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notas Literárias/Tecnologia/Inteligência Artificial/Treinamentos/Responsible AI/Responsible AI - Applying AI Principles with Google Cloud.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Responsible AI - Applying AI Principles with Google Cloud"
+            }
+          },
+          {
+            "id": "875e3fed5f64d211",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notas Literárias/Tecnologia/Inteligência Artificial/Treinamentos/Responsible AI/Responsible AI - Applying AI Principles with Google Cloud.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Responsible AI - Applying AI Principles with Google Cloud"
+            }
+          },
+          {
+            "id": "52348d7f929d2f18",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b3fea4db1163c5cc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "6a8abc183927b437",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notas Literárias/Tecnologia/Inteligência Artificial/Treinamentos/Responsible AI/Responsible AI - Applying AI Principles with Google Cloud.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Responsible AI - Applying AI Principles with Google Cloud"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "zotero-sync-client:Sync with Zotero": false,
+      "tags-overview:Tags overview": false,
+      "dashboard-navigator:Open dashboard navigator": false
+    }
+  },
+  "active": "fe5e8c75d9d3a2d6",
+  "lastOpenFiles": [
+    "Notas Literárias/Tecnologia/Inteligência Artificial/Treinamentos/Generative AI - Learning Path/_Generative AI - Learning Path.md",
+    "Notas Literárias/Tecnologia/Dados/ACID.md",
+    "Notas Literárias/Tecnologia/Dados/Livro/Practical Lakehouse Architecture/Capítulo 4 - Catálogo de Dados.md",
+    "Notas Permanentes/Educação e Aprendizagem/1 - Livros.md",
+    "Notas Literárias/Tecnologia/Dados/Arquitetura Lakehouse.md",
+    "Notas Literárias/Tecnologia/Arquitetura Corporativa/1 - Livros/TOGAF 10/TOGAF 10 - A Pocket Guide.md",
+    "Notas Literárias/Tecnologia/Dados/Livro/Practical Lakehouse Architecture/_Livro - Practical Lakehouse Architecture.md",
+    "Notas Literárias/Governança/Livros/IT Governance/IT Governance.md",
+    "Notas Literárias/Governança/Aggregate Confusion - The Divergence of ESG Ratings.md",
+    "Notas Literárias/Governança/Why ESG ratings vary so widely - and what you can do about it.md",
+    "Notas Literárias/Gestão e Liderança/Hard Skill.md",
+    "Notas Permanentes/Educação e Aprendizagem/2 - Treinamentos.md",
+    "Notas Literárias/Gestão e Liderança/Treinamentos/Líderes de Equipe/_Wisnet - Líderes de Equipe.md",
+    "Notas Literárias/Gestão e Liderança/Treinamentos/Gestão de conflitos no meio corporativo/_Alura - Gestão de conflitos no meio corporativo.md",
+    "Notas Literárias/Finanças/Análise Técnica Ações/Livros/Comprar ou Vender/_Comprar ou Vender. Como investir na Bolsa utilizando Análise Gráfica.md",
+    "Notas Literárias/Filosofia e Psicologia/Valores Humanos.md",
+    "Notas Literárias/Filosofia e Psicologia/Teoria do Flow ou Fluxo.md",
+    "Notas Literárias/Ficção/Livros/_Ramsés - O Filho da Luz.md",
+    "Notas Literárias/Filosofia e Psicologia/Livros/O que o inconsciente esconde/_O que o inconsciente esconde.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Efeito Priming.md",
+    "Notas Permanentes/Autoajuda/Autoajuda.md",
+    "Notas Literárias/Autoajuda/Livros/O poder do Agora/_O poder do Agora - Um guia para a iluminação espiritual.md",
+    "Notas Literárias/Educação e Aprendizagem/Livros/Neurociência aplicada a técnicas de estudo/_Neurociência aplicada a técnicas de estudo.md",
+    "Notas Literárias/Educação e Aprendizagem/Treinamentos/Alura - Aprender a aprender/_Alura - Aprender a aprender.md",
+    "Notas Permanentes/Notas Permanentes.md",
+    "Notas Permanentes/Empreendedorismo/Estratégia Empresarial.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Sem título",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Treinamento FIA - Material Apoio - 1 -  Estratégia Empresarial.pdf",
+    "Externos/Anexos/Pasted image 20250312110721.png"
+  ]
+}

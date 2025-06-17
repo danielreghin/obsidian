@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "718762679e40ed78",
+    "type": "split",
+    "children": [
+      {
+        "id": "78aad6095f9bde3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30c1107e977a2b5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas Permanentes/Espiristismo/Palestras/Pelas suas obras é que se reconhece o Cristão.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pelas suas obras é que se reconhece o Cristão"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb2c98123150aeec",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0ba3c48a02c7932",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a4bb754d1c636e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "079350513e374481",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          },
+          {
+            "id": "0eed116bff58c48c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "b70cc811805704e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331.5
+  },
+  "right": {
+    "id": "44ae5ce1288c60f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "490770a639123cb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfbd72bccd675d8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notas Literárias/Gestão e Liderança/Soft Skill.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Soft Skill"
+            }
+          },
+          {
+            "id": "cf9b50138a891a0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notas Literárias/Gestão e Liderança/Soft Skill.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Soft Skill"
+            }
+          },
+          {
+            "id": "34d01552459cd89e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0e50070379325a64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notas Permanentes/Espiristismo/Palestras/Pelas suas obras é que se reconhece o Cristão.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Pelas suas obras é que se reconhece o Cristão"
+            }
+          },
+          {
+            "id": "ee909c9273f1f91d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e4d5a586c879988e",
+            "type": "leaf",
+            "state": {
+              "type": "tags-overview-view",
+              "state": {},
+              "icon": "tag",
+              "title": "Tags overview"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 341.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zotero-sync-client:Sync with Zotero": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "tags-overview:Tags overview": false,
+      "dashboard-navigator:Open dashboard navigator": false
+    }
+  },
+  "active": "30c1107e977a2b5e",
+  "lastOpenFiles": [
+    "Notas Permanentes/Espiristismo/Palestras/Utilidade providencial da fortuna.md",
+    "Notas Permanentes/Espiristismo/Palestras/Sobre o trabalho.md",
+    "Notas Permanentes/Espiristismo/Palestras/Piedade filial.md",
+    "Notas Permanentes/Espiristismo/Palestras/Perdão das Ofensas.md",
+    "Notas Permanentes/Espiristismo/Palestras/Parábola dos talentos.md",
+    "Notas Permanentes/Espiristismo/Palestras/Pelas suas obras é que se reconhece o Cristão.md",
+    "Notas Permanentes/Espiristismo/Treinamentos/Educador espírita.md",
+    "Notas Literárias/Espiritismo/Treinamentos/Educador Espírita/Argumentos para palestras espíritas.md",
+    "Notas Literárias/Espiritismo/Treinamentos/Educador Espírita/Planejamento de Palestras na FEESP.md",
+    "Notas Literárias/Espiritismo/Treinamentos/Educador Espírita/Formas adequadas para abordar assuntos nas palestras espíritas.md",
+    "Notas Literárias/Espiritismo/Treinamentos/Educador Espírita/Expressões inadequadas em palestras espíritas.md",
+    "Notas Literárias/Espiritismo/Treinamentos/Educador Espírita/Consolo nas palestras espíritas.md",
+    "Notas Literárias/Espiritismo/Treinamentos/Educador Espírita/Comunicação não verbal em palestras espíritas.md",
+    "Notas Permanentes/Espiristismo/Treinamentos",
+    "Notas Permanentes/Tecnologia/Ambiente Corporativo/Termos para estudo.md",
+    "Abertura/Gráfico de indicadores.md",
+    "Notas Permanentes/Tecnologia/Ambiente Corporativo",
+    "Notas Permanentes/Tecnologia/Sem título.md",
+    "Externos/Zotero/Migrado/Tecnologia/Produto Digital/[Lv] Inspirado.md",
+    "Notas Literárias/Educação e Aprendizagem/Livros/Neurociência aplicada a técnicas de estudo/Técnica pomodoro.md",
+    "Notas Literárias/Educação e Aprendizagem/Livros/Neurociência aplicada a técnicas de estudo/Técnica de estudo intercalado.md",
+    "Notas Literárias/Educação e Aprendizagem/Livros/Neurociência aplicada a técnicas de estudo/Revisões seriadas.md",
+    "Notas Literárias/Autoajuda/Livros/O poder do Agora/Resumo - O poder do Agora - Um guia para a iluminação espiritual.md",
+    "Notas Literárias/Filosofia e Psicologia/Livros/O que o inconsciente esconde/O que o inconsciente esconde.md",
+    "Notas Literárias/Educação e Aprendizagem/Livros/Neurociência aplicada a técnicas de estudo/Neurociência aplicada a técnicas de estudo.md",
+    "Notas Literárias/Finanças/Livros/Comprar ou Vender/Comprar ou Vender. Como investir na Bolsa utilizando Análise Gráfica.md",
+    "Notas Literárias/Filosofia e Psicologia/Valores Humanos.md",
+    "Notas Literárias/Filosofia e Psicologia/Teoria do Flow ou Fluxo.md",
+    "Notas Literárias/Gestão e Liderança/Treinamentos/Gestão de conflitos no meio corporativo/Alura - Gestão de conflito no meio corporativo.pdf",
+    "Notas Literárias/Educação e Aprendizagem/Treinamentos/Alura - Aprender a aprender/Alura - Aprender a aprender.pdf",
+    "Externos/Anexos/Pasted image 20241029164925.png",
+    "Externos/Anexos/Pasted image 20241029101310.png",
+    "Externos/Anexos/Pasted image 20241029100720.png",
+    "Externos/Anexos/Pasted image 20241029095203.png",
+    "Externos/Anexos/Pasted image 20241026121856.png",
+    "Externos/Anexos/Pasted image 20241026113043.png",
+    "Externos/Anexos/Pasted image 20241026113001.png",
+    "Externos/Anexos/Pasted image 20241026111332.png",
+    "Externos/Anexos/Pasted image 20241026110752.png",
+    "Externos/Anexos/Pasted image 20241026110735.png",
+    "Notas Permanentes/Música",
+    "Notas Literárias/Música",
+    "Notas Literárias/Tecnologia/Blockchain e Ativos Digitais",
+    "Externos/Anexos/PlanodeTeste(QA).docx",
+    "Notas Literárias/Espiritismo/Treinamentos/Educador Espírita",
+    "Notas Literárias/Espiritismo/Treinamentos",
+    "Sem título 1.canvas",
+    "Sem título.canvas"
+  ]
+}

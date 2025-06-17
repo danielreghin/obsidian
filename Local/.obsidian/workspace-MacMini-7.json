@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "0f04b05d448271d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0950c648f5b26120",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7419ae1736f72335",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Treinamento FIA - Material Apoio - 1 -  Estratégia Empresarial.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Treinamento FIA - Material Apoio - 1 -  Estratégia Empresarial"
+            }
+          },
+          {
+            "id": "f5cda5123e66042d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Treinamento FIA - Material Apoio - 1 -  Estratégia Empresarial.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Treinamento FIA - Material Apoio - 1 -  Estratégia Empresarial"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8f9aea481b0194f",
+    "type": "split",
+    "children": [
+      {
+        "id": "45cf7982a7788494",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "770acce23b93e67f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "d65615fa0624c360",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "4a00dd76619e5be9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22906899d12f5554",
+    "type": "split",
+    "children": [
+      {
+        "id": "03580b361ed1533b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5db32cceffa4e3a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a584775ab90a932b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "4939f7f6a8bec6c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a1675c4f06038379",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Treinamento FIA - Material Apoio - 1 -  Estratégia Empresarial.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Treinamento FIA - Material Apoio - 1 -  Estratégia Empresarial"
+            }
+          },
+          {
+            "id": "ae174e15d6d6cdb1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zotero-sync-client:Sync with Zotero": false,
+      "tags-overview:Tags overview": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "f5cda5123e66042d",
+  "lastOpenFiles": [
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Tipos de Heurística.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Lógica do Cisne Negro.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Efeito Isca.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Mediocristão e Extremocristão - Risco e Retorno.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Arquitetos da escolha.md",
+    "Externos/Anexos/Pasted image 20250312133329.png",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Sem título.md",
+    "Notas Literárias/Tecnologia/Dados/Livro/Practical Lakehouse Architecture/_Livro - Practical Lakehouse Architecture.md",
+    "Notas Literárias/Tecnologia/Produto Digital/Livros/_Livro - Inspirado.md",
+    "Notas Literárias/Tecnologia/Inteligência Artificial/Treinamentos/Generative AI - Learning Path/_Generative AI - Learning Path.md",
+    "Notas Literárias/Tecnologia/Inteligência Artificial/Treinamentos/Responsible AI/_Responsible AI - Applying AI Principles with Google Cloud.md",
+    "Notas Literárias/Gestão e Liderança/Treinamentos/Líderes de Equipe/_Wisnet - Líderes de Equipe.md",
+    "Notas Literárias/Gestão e Liderança/Treinamentos/Gestão de conflitos no meio corporativo/_Alura - Gestão de conflitos no meio corporativo.md",
+    "Notas Literárias/Finanças/Análise Técnica Ações/Livros/Comprar ou Vender/_Comprar ou Vender. Como investir na Bolsa utilizando Análise Gráfica.md",
+    "Notas Literárias/Filosofia e Psicologia/Livros/O que o inconsciente esconde/_O que o inconsciente esconde.md",
+    "Notas Literárias/Ficção/Livros/_Ramsés - O Filho da Luz.md",
+    "Notas Literárias/Educação e Aprendizagem/Livros/Neurociência aplicada a técnicas de estudo/_Neurociência aplicada a técnicas de estudo.md",
+    "Notas Literárias/Autoajuda/Livros/O poder do Agora/_O poder do Agora - Um guia para a iluminação espiritual.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/_Treinamento FIA - Estratégia Empresarial.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Efeito Halo.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Heurística e vieses de comportamento.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Sistemas de pensamento.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Efeito Priming.md",
+    "Notas Literárias/Educação e Aprendizagem/Treinamentos/Alura - Aprender a aprender/_Alura - Aprender a aprender.md",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Estratégia.md",
+    "Notas Permanentes/Notas Permanentes.md",
+    "Notas Permanentes/Empreendedorismo/Estratégia Empresarial.md",
+    "Externos/Anexos/Pasted image 20250312110721.png",
+    "Notas Literárias/Empreendedorismo/Treinamento FIA - Estratégia Empresarial/Treinamento FIA - Material Apoio - 1 -  Estratégia Empresarial.pdf",
+    "Notas Literárias/Linguas/OpenEnglish",
+    "Notas Literárias/Linguas",
+    "Pasted image 20250225163834.png"
+  ]
+}
